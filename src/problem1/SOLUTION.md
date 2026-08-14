@@ -1,1 +1,1 @@
-Provide your CLI command here:
+Provide your solution here:
